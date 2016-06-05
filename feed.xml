@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2016-06-05T11:34:11+02:00</updated><id>http://localhost:3000/</id><title>Christian Bartrina</title><subtitle>Demos y Articulos de mis desarrollos con JavaScript</subtitle><entry><title>Konnor Online 1.0</title><link href="http://localhost:3000/moon-theme/" rel="alternate" type="text/html" title="Konnor Online 1.0" /><published>2016-04-06T00:00:00+02:00</published><updated>2016-04-06T00:00:00+02:00</updated><id>http://localhost:3000/moon-theme</id><content type="html" xml:base="http://localhost:3000/moon-theme/">&lt;h2 id=&quot;inicios&quot;&gt;Inicios&lt;/h2&gt;
+
+&lt;p&gt;A finales del ciclo formativo de grado medio realizé con la ayuda de Vanessa Pereira y Carme Calabuig un proyecto que consistía en una 
+  mezcla entre el famoso juego Tibia y el portal OGame. En ese entonces, mi nivel de programación era… limitado, así 
+  que porque no modificar la base de datos de una instalación Joomla! 1.4 y crear diferentes modulos para cada sección 
+  del juego?&lt;/p&gt;
+
+&lt;p&gt;Así pues, y sin comprender que era POO, nació Konnor, un juego cuya finalidad era derrotar los 3 jefes de cada ciudadela 
+  y poder acabar con la tiranía de Konnor, el actual rey de Ulster.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/konnor1/ulsterdibujo.jpg&quot; alt=&quot;Reino de Ulster&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;histria&quot;&gt;História&lt;/h2&gt;
+
+&lt;p&gt;En Ulster ha estallado la guerra y nuestro villano Konnor se ha apoderado de las tierras prohibidas en las
+  que yace un tesoro capaz de sesgar todas las vidas del reino en un instante.&lt;/p&gt;
+
+&lt;p&gt;Es tu obligación evitar que se use dicha arma, pero Konor, ayudado por sus esbirros, ha aislado la zona para que 
+  nadie pueda pararle en su misión.&lt;/p&gt;
+
+&lt;p&gt;Para poder llegar hasta él tendràs que derrotar a los 3 hermanos vikingos y cerrar las
+  compuertas de las 3 ciudadelas que rodean las tierras prohibidas. Unicamente así podràs entrar y derrotar a Konnor para 
+  que reine la paz en Ulster.&lt;/p&gt;
+
+&lt;h2 id=&quot;resultados-finales&quot;&gt;Resultados finales&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/konnor1/konnor.png&quot; alt=&quot;Frontend&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;Apartado de batallas&lt;/center&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/konnor1/caotic dragon.png&quot; alt=&quot;Backend&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;Añadir oponentes&lt;/center&gt;</content><category term="joomla" /><category term="tibia" /><category term="ogame" /><category term="konnor" /><summary>Juego web basado en Joomla 1.4</summary></entry></feed>
